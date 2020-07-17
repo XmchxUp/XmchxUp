@@ -18,8 +18,10 @@
 </h2>
 
 ## :computer: Technologies I Love
+* Computer Science
 * Data Science
 * Frontend and Backend Web Development
+
 
 ## Study Programming Languages and Tools
 <img src="https://raw.githubusercontent.com/XmchxUp/XmchxUp/master/img/c-original.svg" width="50">&nbsp;&nbsp;
