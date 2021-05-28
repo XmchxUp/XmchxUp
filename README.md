@@ -17,7 +17,7 @@
   I look forward to absorbing knowledge🧠, gain experience👨‍🏭, collaborate🤝, etc.
 </h2>
 
-## Other Stuff
+## Other Stuff  <img src="https://komarev.com/ghpvc/?username=XmchxUp&color=orange" />
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=xmchxup&column=7"/>
@@ -27,7 +27,6 @@
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=xmchxup&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmchxup&layout=compact" />
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 </div>
