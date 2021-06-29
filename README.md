@@ -1,4 +1,4 @@
-<h1 align="center">Hi Devs 👋, I'm Kevin Sun <img width="100" src="./img/golang.gif" ></h1>
+<h1 align="center">Hi Devs 👋, I'm Kevin Sun <img width="100" src="https://github.com/XmchxUp/XmchxUp/blob/master/img/golang.gif" ></h1>
 
 
 <p align="center">
@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/FantasyOverflow"><img src="./img/twitter.svg" /></a>
+  <a href="https://twitter.com/FantasyOverflow"><img src="https://github.com/XmchxUp/XmchxUp/blob/master/img/twitter.svg" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sunhuayangak47@gmail.com"><img  src="./img/gmail.svg" /></a>
+  <a href="mailto:sunhuayangak47@gmail.com"><img  src="https://github.com/XmchxUp/XmchxUp/blob/master/img/gmail.svg" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
