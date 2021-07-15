@@ -37,7 +37,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmchxup&hide=css,scss,html&langs_count=8&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
   </p>
   
-  <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xmchxup&theme=github" />
  
 </a>
 </details>
