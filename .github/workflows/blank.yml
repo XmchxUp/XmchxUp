@@ -10,10 +10,9 @@ jobs:
   summary-cards:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-
       - name: Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@master
+      - uses: actions/checkout@v2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
