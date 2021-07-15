@@ -18,16 +18,18 @@
 
 * 🧐 Learning
 
+![Snake animation](https://github.com/XmchxUp/XmchxUp/blob/output/github-contribution-grid-snake.gif)
+
 <details>
   <summary>Other Stuff</summary>
   <br />
 
   * 🏆 Some GitHub statistical reports:
-
-  <p align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=xmchxup&column=7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=xmchxup&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmchxup&hide=css,scss,html&langs_count=8&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
+  
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=xmchxup&column=7">
+  <p align="left">  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xmchxup&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmchxup&hide=css,scss,html&langs_count=8&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
   </p>
 </a>
 </details>
