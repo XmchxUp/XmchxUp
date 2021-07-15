@@ -1,31 +1,54 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
-name: Generate Snake
-
-# Controls when the action will run. This action runs every 6 hours.
+name: Generate Datas
 
 on:
-  schedule:
-      # every 6 hours
-    - cron: "0 */6 * * *"
-
-# This command allows us to run the Action automatically from the Actions tab.
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
 
-# The sequence of runs in this workflow:
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  metrics-achievements:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: Achievements metrics
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_threshold: B       # Display achievements with rank B or higher
+          plugin_achievements_secrets: yes       # Display unlocked secrets achievements
+          plugin_achievements_ignored: octonaut  # Hide octonaut achievement
+          plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
 
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+  metrics-github:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Github metrics
+        uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+  summary-cards:
+    runs-on: ubuntu-latest
+    steps:
       - uses: actions/checkout@v2
 
-    # Generates the snake  
+      - name: Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+
+  snake-animation:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Generates the snake  
       - uses: Platane/snk@master
         id: snake-gif
         with:
