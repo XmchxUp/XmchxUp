@@ -2,7 +2,8 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/XmchxUp/XmchxUp/master/img/giphy.webp" width=300>
+  <!-- <img src="https://raw.githubusercontent.com/XmchxUp/XmchxUp/master/img/giphy.webp" width=300> -->
+  <img src="https://cdn.jsdelivr.net/gh/XmchxUp/cloudimg@master/20210513/code.5jz42rnsut80.gif" width=300>
 </p>
 
 <p align="center">
@@ -45,9 +46,9 @@
 
 <hr>
 <p align="center">
-  <i>You can learn anything!</i>
-    <p  align="center">
+    <i>You can learn anything!</i>
+    <p align="center">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=xmchxup" alt="visitor badge"/>       
-    </p>	
+    </p>
 </p>
 
