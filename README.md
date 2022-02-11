@@ -1,4 +1,4 @@
-<h1 align="center">Hi Devs 👋, I'm Kevin Sun <img width="100" src="https://github.com/XmchxUp/XmchxUp/blob/master/img/golang.gif" ></h1>
+<h1 align="center">Hi Devs 👋<img width="100" src="https://github.com/XmchxUp/XmchxUp/blob/master/img/golang.gif" ></h1>
 
 
 <p align="center">
