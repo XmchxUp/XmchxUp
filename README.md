@@ -1,6 +1,11 @@
-<h1 align="center">Hi Devs 👋<img width="100" src="https://github.com/XmchxUp/XmchxUp/blob/master/img/golang.gif" ></h1>
-
-
+<h2>
+    <samp>Hi there! I'm Huayang.</samp>
+</h2>
+<p>
+    <samp>
+        * 🧐 Learning
+    </samp>
+</p>
 <p align="center">
   <!-- <img src="https://raw.githubusercontent.com/XmchxUp/XmchxUp/master/img/giphy.webp" width=300> -->
   <img src="https://cdn.jsdelivr.net/gh/XmchxUp/cloudimg@master/20210513/code.5jz42rnsut80.gif" width=300>
@@ -12,12 +17,6 @@
   <a href="mailto:sunhuayangak47@gmail.com"><img  src="https://github.com/XmchxUp/XmchxUp/blob/master/img/gmail.svg" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-<h2 align="center">
-  I look forward to absorbing knowledge🧠, gain experience👨‍🏭, collaborate🤝, etc.
-</h2>
-
-* 🧐 Learning
 
 ![Snake animation](https://github.com/XmchxUp/XmchxUp/blob/output/github-contribution-grid-snake.gif)
 
