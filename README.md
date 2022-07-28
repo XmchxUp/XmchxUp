@@ -5,15 +5,6 @@
     <samp>
         * 🧐 Learning
     </samp>
-    <samp>
-        <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-    </samp>
 </p>
 <p align="center">
   <!-- <img src="https://raw.githubusercontent.com/XmchxUp/XmchxUp/master/img/giphy.webp" width=300> -->
@@ -60,3 +51,10 @@ No activity tracked
     </p>
 </p>
 
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
