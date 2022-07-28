@@ -41,15 +41,8 @@
  
 </a>
 </details>
-
-
 <hr>
-<p align="center">
-    <i>You can learn anything!</i>
-    <p align="center">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=xmchxup" alt="visitor badge"/>       
-    </p>
-</p>
+
 
 <!--START_SECTION:waka-->
 
@@ -58,3 +51,11 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+<hr>
+<p align="center">
+    <i>You can learn anything!</i>
+    <p align="center">
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=xmchxup" alt="visitor badge"/>       
+    </p>
+</p>
