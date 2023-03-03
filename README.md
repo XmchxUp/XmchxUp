@@ -7,10 +7,7 @@
     </samp>
 </p>
 
-
-
 <hr>
-
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs-blue)
@@ -38,6 +35,9 @@ Windows                  3 hrs 26 mins       █████░░░░░░�
  Last Updated on 02/03/2023 20:07:30 UTC
 <!--END_SECTION:waka-->
 
+<picture>
+    <img src="/github-metrics.svg" alt="github metrics" style='visibility:visible'>
+</picture>
 
 <details>
   <summary>Other Stuff</summary>
