@@ -1,0 +1,40 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: XmchxUp
+          template: classic
+          base: header
+          base_indepth: yes
+          config_timezone: Europe/Zurich
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_sections: user
+          plugin_notable: yes
+          plugin_notable_from: organization
+          # plugin_notable_repositories: yes
+          plugin_notable_skipped: epfl-ada/ada-2022-project-superplainteamname2022, pixelsdb/pixels, pixelsdb/pixels-trino, engula/engula, ericon-io/comments, ixxchan/.github, ixxchan/peerster, beyondstorage/site, beyondstorage/community, logseq/marketplace, facebookarchive/cargo-guppy
+          plugin_notable_types: commit, pull_request, issue
