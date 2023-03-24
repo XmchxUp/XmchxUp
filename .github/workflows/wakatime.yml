@@ -24,3 +24,4 @@ jobs:
           SHOW_EDITORS : True
           SHOW_LANGUAGE_PER_REPO : False
           SHOW_LOC_CHART : False
+          SHOW_SHORT_INFO : False
