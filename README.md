@@ -1,5 +1,5 @@
 <h2>
-    <samp>Hi there! I'm Huayang.</samp>
+    <samp>Hi there! I'm Huayang. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></samp>
 </h2>
 <p>
     <samp>
