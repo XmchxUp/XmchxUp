@@ -35,9 +35,13 @@ Linux                    54 mins             █░░░░░░░░░░�
  Last Updated on 07/07/2023 20:06:43 UTC
 <!--END_SECTION:waka-->
 
-<picture>
+<p align="center">
     <img src="/github-metrics.svg" alt="github metrics" style='visibility:visible'>
-</picture>
+</p>
+<p align="center">
+    <img src="https://api.githubtrends.io/user/svg/XmchxUp/langs?time_range=one_year&theme=classic">
+    <img src="https://api.githubtrends.io/user/svg/XmchxUp/repos?time_range=one_year&include_private=True&group=private&theme=classic">
+</p>
 
 <details>
   <summary>Other Stuff</summary>
