@@ -38,13 +38,13 @@ Mac                      23 hrs 48 mins      ███████████�
     <summary>Other Stuff</summary>
 
 * 🛠️ Skills
-    
+<!-- 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,cpp,go,react,js,ts,rust,java,haskell,ruby,kotlin,scala,kubernetes,docker,grafana,jenkins,nginx,nestjs,nextjs,rabbitmq,postgres,kafka,redis,graphql,mysql,linux,md,git,vim,vscode,visualstudio,stackoverflow" />
   </a>
 </p>
-
+-->    
 <p align="center">
     <img src="https://api.githubtrends.io/user/svg/XmchxUp/langs?time_range=one_year&theme=classic" />
     <img src="https://api.githubtrends.io/user/svg/XmchxUp/repos?time_range=one_year&include_private=True&group=private&theme=classic" />
