@@ -47,8 +47,8 @@ Mac                      35 hrs 13 mins      ███████████�
 </p>
 -->    
 <p align="center">
-    <img src="[https://api.githubtrends.io/user/svg/XmchxUp/langs?time_range=one_year&theme=classic](https://api.githubtrends.io/user/svg/xmchxup/langs?time_range=one_year&include_private=True&theme=classic)" />
-    <img src="[https://api.githubtrends.io/user/svg/XmchxUp/repos?time_range=one_year&include_private=True&group=private&theme=classic](https://api.githubtrends.io/user/svg/xmchxup/repos?time_range=one_year&include_private=True&theme=classic)" />
+    <img src="https://api.githubtrends.io/user/svg/XmchxUp/langs?time_range=one_year&include_private=True" />
+    <img src="https://api.githubtrends.io/user/svg/XmchxUp/repos?time_range=one_year&include_private=True" />
 </p>
 
 * 🏆 Some GitHub statistical reports:
