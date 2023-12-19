@@ -29,7 +29,7 @@ jobs:
           template: classic
           base: header
           base_indepth: yes
-          config_timezone: Europe/Zurich
+          config_timezone: Asia/Shanghai
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: user
