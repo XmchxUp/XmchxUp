@@ -27,12 +27,19 @@ jobs:
           # Options
           user: XmchxUp
           template: classic
-          base: header
-          base_indepth: yes
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: user
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: public
+          plugin_introduction: yes
+          plugin_introduction_title: yes
           plugin_notable: yes
           plugin_notable_from: organization
           # plugin_notable_repositories: yes
