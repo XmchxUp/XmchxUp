@@ -39,31 +39,42 @@ WSL                      0 secs              ░░░░░░░░░░░�
     <summary>Other Stuff</summary>
 
 * 🛠️ Skills
-<!-- 
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,cpp,go,react,js,ts,rust,java,haskell,ruby,kotlin,scala,kubernetes,docker,grafana,jenkins,nginx,nestjs,nextjs,rabbitmq,postgres,kafka,redis,graphql,mysql,linux,md,git,vim,vscode,visualstudio,stackoverflow" />
   </a>
 </p>
--->    
-<p align="center">
-    <img src="https://api.githubtrends.io/user/svg/XmchxUp/langs?time_range=one_year&include_private=True" />
-    <img src="https://api.githubtrends.io/user/svg/XmchxUp/repos?time_range=one_year&include_private=True" />
-</p>
+-->
+
 
 * 🏆 Some GitHub statistical reports:
 
-<p align="center">
-    <img src="/github-metrics.svg" alt="github metrics" style='visibility:visible' />    
-</p>
+<table align="center">
+  <tr>
+    <td width="50%">
+     <img width="100%" src="./github-metrics.svg">
+    </td>
+    <td width="50%">
+     <img width="100%" src="./github-metrics/achievements.compact.svg" />
+     <img width="100%" src="./github-metrics/languages.indepth.svg" />
+     <img width="100%" src="./github-metrics/stars.svg" />
+     <img width="100%" src=""https://github-profile-trophy.vercel.app/?username=xmchxup" />
+     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=xmchxup&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmchxup&hide=css,scss,html&langs_count=8&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
+     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=XmchxUp" />
+     <img width="50%" src="https://api.githubtrends.io/user/svg/XmchxUp/langs?time_range=one_year&include_private=True" /> <img width="50%" src="https://api.githubtrends.io/user/svg/XmchxUp/repos?time_range=one_year&include_private=True" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xmchxup&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmchxup&hide=css,scss,html&langs_count=8&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
-</p>
-
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=xmchxup&column=7" />
+<!-- GitHub Activity Graph -->
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xmchxup&area=true&hide_border=true&theme=redical" />
+    </td>
+  </tr>
+</table>
 
 </details>
 
