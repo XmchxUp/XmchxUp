@@ -1,12 +1,7 @@
 <h2>
     <samp>🎉 Bonjour!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></samp>
 </h2>
-
-* My name is `Huayang` and I'm a novice programmer.
-
-
 * 🧐 Keep Learning...
-
 <hr>
 
 <!--START_SECTION:waka-->
@@ -37,6 +32,21 @@ WSL                      0 secs              ░░░░░░░░░░░�
 
 <details>
     <summary>Other Stuff</summary>
+    
+<p align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhlczU4ZjU0d3J2ajRtMXhxMmE2aXZ6M2czNHZscjdsMW5neHV6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IoMkSXKHQIDVm/giphy.gif">
+</p>
+* 🧰 Tools:
+
+&emsp;&emsp; 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+
 
 * 🛠️ Skills
 <!--
@@ -46,6 +56,8 @@ WSL                      0 secs              ░░░░░░░░░░░�
   </a>
 </p>
 -->
+
+
 <p align="center">
     <img src="https://api.githubtrends.io/user/svg/XmchxUp/langs?time_range=one_year&include_private=True" />
     <img src="https://api.githubtrends.io/user/svg/XmchxUp/repos?time_range=one_year&include_private=True" />
