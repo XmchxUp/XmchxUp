@@ -46,6 +46,10 @@ WSL                      0 secs              ░░░░░░░░░░░�
   </a>
 </p>
 -->
+<p align="center">
+    <img src="https://api.githubtrends.io/user/svg/XmchxUp/langs?time_range=one_year&include_private=True" />
+    <img src="https://api.githubtrends.io/user/svg/XmchxUp/repos?time_range=one_year&include_private=True" />
+</p>
 
 
 * 🏆 Some GitHub statistical reports:
@@ -60,9 +64,9 @@ WSL                      0 secs              ░░░░░░░░░░░�
      <img width="100%" src="./github-metrics/languages.indepth.svg" />
      <img width="100%" src="./github-metrics/stars.svg" />
      <img width="100%" src=""https://github-profile-trophy.vercel.app/?username=xmchxup" />
-     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=xmchxup&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmchxup&hide=css,scss,html&langs_count=8&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
+    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=xmchxup&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmchxup&hide=css,scss,html&langs_count=8&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=XmchxUp" />
-     <img width="50%" src="https://api.githubtrends.io/user/svg/XmchxUp/langs?time_range=one_year&include_private=True" /> <img width="50%" src="https://api.githubtrends.io/user/svg/XmchxUp/repos?time_range=one_year&include_private=True" />
     </td>
   </tr>
 </table>
