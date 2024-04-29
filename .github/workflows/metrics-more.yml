@@ -51,43 +51,7 @@ jobs:
           plugin_isocalendar: yes
           # 设置成显示整年
           plugin_isocalendar_duration: full-year
-
-      # 🈷️ Languages activity
-      - name: Indepth analysis
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/languages.indepth.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_indepth: yes
-          plugin_languages_details: lines, bytes-size
-          plugin_languages_limit: 4
-          plugin_languages_analysis_timeout: 15
-
-      # ✨ Stargazers   
-      - name: Using chartist charts
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/stargazers.chartist.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: chartist
           
-#       # 📌 Starred topics
-#       - name: Icons
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: github-metrics/topics.icons.svg
-#           token: NOT_NEEDED
-#           base: ""
-#           plugin_topics: yes
-#           plugin_topics_limit: 0
-#           plugin_topics_mode: icons
 
       # 🌟 Recently starred repositories
       - name: Recently starred
@@ -238,38 +202,17 @@ jobs:
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
    
 #       # ♐ Random code snippet
-#       - name: JavaScript or TypeScript snippet of the day
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: github-metrics/code.svg
-#           token: ${{ secrets.METRICS_TOKEN }}
-#           base: ""
-#           plugin_code: yes
-#           plugin_code_languages: javascript, typescript
-#           plugin_code_load: 400
+      # - name: JavaScript or TypeScript snippet of the day
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics/code.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_code: yes
+      #     plugin_code_languages: javascript, typescript
+      #     plugin_code_load: 400
           
-#       # 🗂️ GitHub projects
-#       - name: Project from a repository
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: github-metrics/projects.svg
-#           token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
-#           base: ""
-#           plugin_projects: yes
-#           plugin_projects_repositories: lowlighter/metrics/projects/1
-#           plugin_projects_descriptions: yes
 
-#       # 🌇 GitHub Skyline
-#       - name: GitHub Skyline
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: github-metrics/skyline.svg
-#           token: NOT_NEEDED
-#           base: ""
-#           plugin_skyline: yes
-#           plugin_skyline_year: 2023
-#           plugin_skyline_frames: 6
-#           plugin_skyline_quality: 1
      
       # ⏱️ Google PageSpeed
       - name: Screenshot
@@ -284,19 +227,6 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: https://blog.sunguoqi.com
 
-      # 🐤 Latest tweets
-      # 需要申请开发者账户
-#       - name: Latest tweets including attachments
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: github-metrics/tweets.attachments.svg
-#           token: NOT_NEEDED
-#           base: ""
-#           plugin_tweets: yes
-#           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-#           plugin_tweets_attachments: yes
-#           plugin_tweets_user: github
-#           plugin_tweets_limit: 1
 
       # 🗨️ Stack Overflow
       - name: Top answers from stackoverflow
@@ -306,54 +236,10 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 1
+          plugin_stackoverflow_user: 11415062
           plugin_stackoverflow_sections: answers-top
-          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_limit: 3
 
-#       # 🌸 Anilist watch list and reading list
-#       - name: Favorites characters
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: github-metrics/anilist.characters.svg
-#           token: NOT_NEEDED
-#           base: ""
-#           plugin_anilist: yes
-#           plugin_anilist_sections: characters
-#           plugin_anilist_limit_characters: 22
-
-#       # 🎼 Music activity and suggestions
-#       - name: Spotify - Random track from playlist
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: github-metrics/music.playlist.spotify.svg
-#           token: NOT_NEEDED
-#           base: ""
-#           plugin_music: yes
-#           plugin_music_playlist: https://open.spotify.com/embed/playlist/3nfA87oeJw4LFVcUDjRcqi
-     
-#       # ✒️ Recent posts
-#       - name: Recent posts with descriptions and cover images
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: github-metrics/posts.full.svg
-#           token: NOT_NEEDED
-#           base: ""
-#           plugin_posts: yes
-#           plugin_posts_source: dev.to
-#           plugin_posts_limit: 2
-#           plugin_posts_descriptions: yes
-#           plugin_posts_covers: yes
-
-#       # 🗼 Rss feed
-#       - name: News from hackernews
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: github-metrics/rss.svg
-#           token: NOT_NEEDED
-#           base: ""
-#           plugin_rss: yes
-#           plugin_rss_source: https://news.ycombinator.com/rss
-#           plugin_rss_limit: 4
 
       # ⏰ WakaTime
       - name: WakaTime
