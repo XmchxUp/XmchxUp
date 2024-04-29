@@ -75,7 +75,7 @@ Windows                  1 hr 24 mins        ██░░░░░░░░░�
     </td>
     <td width="50%">
      <img width="100%" src="./github-metrics/achievements.compact.svg" />
-     <img width="100%" src="./github-metrics/languages.indepth.svg" />
+     <img width="100%" src="./github-metrics/wakatime.svg" />
      <img width="100%" src="./github-metrics/stars.svg" />
      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=xmchxup" />
      <img height="110rem" src="https://github-readme-stats.vercel.app/api?username=xmchxup&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />
