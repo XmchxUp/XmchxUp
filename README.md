@@ -35,13 +35,13 @@ Windows                  1 hr 24 mins        █░░░░░░░░░░�
 <details>
     <summary>Other Stuff</summary>
     
-    <p align="center">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhlczU4ZjU0d3J2ajRtMXhxMmE2aXZ6M2czNHZscjdsMW5neHV6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IoMkSXKHQIDVm/giphy.gif">
-    </p>
+<p align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhlczU4ZjU0d3J2ajRtMXhxMmE2aXZ6M2czNHZscjdsMW5neHV6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IoMkSXKHQIDVm/giphy.gif">
+</p>
 
 * 🧰 Tools:
 
-&emsp;&emsp; 
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
@@ -53,7 +53,6 @@ Windows                  1 hr 24 mins        █░░░░░░░░░░�
 * 🛠️ Skills:
 
 <p align="left"> 
-    &emsp;&emsp; 
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
     <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
