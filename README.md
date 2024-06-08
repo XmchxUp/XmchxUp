@@ -1,3 +1,7 @@
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/XmchxUp/picx-images-hosting/raw/master/20240608/wallhaven-x8evl3.8dwprauea6.png');]{x0000}$}
+```
+
 <h2>
     <samp>🎉 Bonjour!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></samp>
 </h2>
