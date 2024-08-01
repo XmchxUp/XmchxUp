@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="995" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1312" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.number{color:#2777aa}.token.tag{color:#48428a}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            36 issue comments
+                            35 issue comments
                         </div>
                     </section>
                     <section>
@@ -210,7 +210,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    30 Watchers
+                                    28 Watchers
                                 </div>
                             </section>
                         </div>
@@ -377,6 +377,264 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 418 commits in
+                                        <span class="repo">XmchxUp/cilium</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4c336dd</div>
+                                        <div class="message">option: Fix merge conflict in test expectations
+
+Commit 369e927307 ("daemon: Check that DaemonConfig is not changed
+after being published") added a new test case that needs to be updated
+when adding new configs.
+
+Commit b7a26eb8a2 ("Add rate limiting on BPF events map") added new
+configs but the pull request branch didn't include commit 369e927307,
+thus tests passed in the pull request CI and started failing once the
+pull request was merged.
+
+This commit fixes it by updating the test expected output.
+
+Signed-off-by: Paul Chaignon &lt;paul.chaignon@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e64311d</div>
+                                        <div class="message">Add kernel version limitation to multicast Doc
+
+The kernel version that can enable multicast is different between AMD64 and AArch64 due to the difference in the timing of when tail-call from eBPF sub-programs is enabled.
+I wrote about it in the document.
+
+ref : The commit which allow for tailcalls in BPF subprogram in each architecture are below
+AMD64:
+https://github.com/torvalds/linux/commit/e411901c0b775
+This commit is reflected to version 5.10 or newer kernel
+
+AArch64:
+https://github.com/torvalds/linux/commit/d4609a5d8c70d21b4a3f801cf896a3c16c613fe1
+This commit is reflected to 6.0 or newer kernel
+
+This PR is a little part of the solution of https://github.com/cilium/cilium/issues/33408
+
+Signed-off-by: Yusho Yamaguchi &lt;yusho.yamaguchi@sony.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be112ac</div>
+                                        <div class="message">helm: `loadBalancerSourceRanges` for clustermesh-apiserver service
+
+This commit updates the Helm template for the clustermesh-apiserver to
+allow users to define `loadBalancerSourceRanges` which will be used to
+determine which IP ranges users can connect to the clustermesh-apiserver
+load balancer from.
+
+Signed-off-by: Matthieu Antoine &lt;matthieu.antoine@jumo.world&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c9aeefb</div>
+                                        <div class="message">envoy: Update envoy 1.29.x to v1.29.7
+
+This is mainly to pick up the below CVE fix from the upstream.
+
+Related CVE: https://github.com/envoyproxy/envoy/security/advisories/GHSA-fp35-g349-h66f
+Relates: https://github.com/cilium/proxy/pull/817
+Relates: https://github.com/envoyproxy/envoy/releases/tag/v1.29.7
+
+Signed-off-by: Tam Mach &lt;tam.mach@cilium.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6b318e</div>
+                                        <div class="message">docs: Document plus sign in IPsec secret
+
+The plus sign in the IPsec secret forces the use of per-tunnel keys.
+It will be mandatory from version 1.16.
+
+Signed-off-by: Paul Chaignon &lt;paul.chaignon@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c3a0d6c</div>
+                                        <div class="message">images: update cilium-{runtime,builder}
+
+Signed-off-by: Cilium Imagebot &lt;noreply@cilium.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e334c2</div>
+                                        <div class="message">chore(deps): update go to v1.22.5
+
+Signed-off-by: cilium-renovate[bot] &lt;134692979+cilium-renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#50371db</div>
+                                        <div class="message">renovate: do not update major golang in v1.16 branch
+
+Similar to other stable branches we shouldn't update golang to major
+versions automatically.
+
+Fixes: da63c10eb308 ("Prepare for v1.17 development cycle")
+Signed-off-by: André Martins &lt;andre@cilium.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c707781</div>
+                                        <div class="message">ipsec: Deprecate global IPsec keys
+
+Using a single IPsec key for all IPsec tunnels is insecure. It was only
+preserved to allow for a smooth switch to per-tunnel keys. Per-tunnel
+keys have been released in v1.13, v1.14, and v1.15, so we can now
+deprecate the insecure alternative for v1.16.
+
+Signed-off-by: Paul Chaignon &lt;paul.chaignon@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7a26eb</div>
+                                        <div class="message">Add rate limiting on BPF events map
+
+This change introduces a rate limiter that prevents from high CPU
+utilization by cilium-agent. This is particuraly important on smaller
+VMs where consuming ~3vCPU can starve other processes on the node. In the
+same time CPU limit on the whole pod is not a good solution, as it may
+affect network programing latency.
+
+The rate limiter operates on BPF level, preventing an event to be
+generated and written to BPF events map. It utilizes the rate limiter
+already used for ICMPv6 messages, which implementation is based on a
+token system. The rate limiter is configured with 2 values - rate limit
+(how many tokens are refreshed every second) and burst limit (the
+maximum number of tokens). Each call to rate limiter uses 1 token
+if a token is available.
+
+Option should be used when you either need to limit cilium-agent CPU
+usage (without disabling hubble subsystem at all) or you can observe a
+lot of event lost in the observer queue (as this is wasting CPU time on
+processing events that won't be consumed anyway.
+
+This is a follow-up to https://github.com/cilium/cilium/pull/25385,
+which implemented similar behaviour, but in user space. This
+implementation provides rate limiting of events at the earliest stage of
+event lifecycle, in kernel space, before the event is written to
+BPF events map.
+
+Signed-off-by: Michal Siwinski &lt;siwy@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9343a62</div>
+                                        <div class="message">ipsec: do not nil out EncryptInterface when using IPAM ENI
+
+netlink.LinkList() can return a transient kernel interrupt error.  This commit
+adds a retry when this occurs in loader.reinitializeIPSec() to prevent nilling out or misconfiguring EncryptInterface.  Additionally, it will now surface an error instead of swallowing it.
+
+Signed-off-by: Jason Aliyetti &lt;jaliyetti@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4379c98</div>
+                                        <div class="message">fix link in node-ipam.rst
+
+Signed-off-by: Dean &lt;22192242+saintdle@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2173bb6</div>
+                                        <div class="message">experimental: Add fuzz test to validate serializability
+
+The "cilium-dbg statedb" commands require the objects to be
+JSON serializable, which is easy to break accidentally.
+
+Add a fuzz test to generate arbitrary Service, Frontend and
+Backend objects and validate that the TableRow() output is the
+same across JSON serialization.
+
+Signed-off-by: Jussi Maki &lt;jussi@isovalent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0a7908</div>
+                                        <div class="message">loadbalancer/experimental: Add experimental API for load-balancing
+
+Add experimental Services API for managing load-balancing frontends
+and backends. This is added as a new experimental package to avoid
+confusing it with the production implementation.
+
+When the hidden "--enable-experimental-services" flag is set:
+* K8s Service and Endpoints are reflected to service, frontend and backend tables
+* A mock reconciler is started that logs mock operations to reconcile the frontends.
+
+The tables can be inspected with "cilium-dbg statedb experimental" commands,
+e.g. "cilium-dbg statedb experimental frontends".
+
+Signed-off-by: Jussi Maki &lt;jussi@isovalent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62ac5e0</div>
+                                        <div class="message">container: Add JSON marshalling support for ImmSet[T]
+
+For dumping StateDB objects with ImmSet[T] fields, add support
+for JSON marshallign and unmarshalling.
+
+The default implementation does not work as ImmSet[T] has
+private fields only.
+
+Signed-off-by: Jussi Maki &lt;jussi@isovalent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7add37f</div>
+                                        <div class="message">clustermesh: Add JSON marshalling to AddrCluster
+
+Implement JSON marshalling for AddrCluster type so it can
+be used in StateDB objects and dumped with cilium-dbg.
+
+Signed-off-by: Jussi Maki &lt;jussi@isovalent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a33ff0</div>
+                                        <div class="message">renovate: remove concurrency group from renovate's Base Image Release Build
+
+The "Base Image Release Build - Renovate" workflow doesn't need a
+concurrency group has it will use the concurrency group of the workflow
+that it uses, the "./.github/workflows/build-images-base.yaml".
+Using the concurrency groups on both workflows will result in the
+following error:
+
+Canceling since a deadlock for concurrency group 'Base Image Release Build
+- Renovate-refs/heads/renovate/main-all-dependencies' was detected between
+'top level workflow' and 'build-base-images-from-renovate'
+
+Fixes: f054f94b24b9 (".github: add workflow for renovate to build base images")
+Signed-off-by: André Martins &lt;andre@cilium.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#979f335</div>
+                                        <div class="message">bpf: wireguard: simplify overlay path
+
+Pull the goto statement up to clean up an extra level of indirection.
+
+Signed-off-by: Julian Wiedmann &lt;jwi@isovalent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26085bd</div>
+                                        <div class="message">bpf: wireguard: use overlay mark to detect tunnel traffic
+
+Instead of peeking into the packet headers, rely on the mark that is set
+by to-overlay.
+
+https://github.com/cilium/cilium/pull/31082 landed in v1.16, so for v1.17
+it's safe to assume that all overlay traffic is marked accordingly.
+
+Signed-off-by: Julian Wiedmann &lt;jwi@isovalent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e7f0a0</div>
+                                        <div class="message">bgpv2: Skip reconcile while BGPNodeConfig is not initialized
+
+Signed-off-by: Rastislav Szabo &lt;rastislav.szabo@isovalent.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">cs-learning-every-day/cmu15-445-fa22</span>
                                     </div>
@@ -450,32 +708,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">cs-learning-every-day/go-jk-pre</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dfcb88b</div>
-                                        <div class="message">update</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Aug 2024, 12:16:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Aug 2024, 13:13:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
