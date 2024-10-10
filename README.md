@@ -34,7 +34,7 @@ Windows                  1 hr 55 mins        ███░░░░░░░░�
  Last Updated on 09/10/2024 20:08:57 UTC
 <!--END_SECTION:waka-->
 
-<details open>
+<details >
     <summary>Other Stuff</summary>
     
 <p align="center">
