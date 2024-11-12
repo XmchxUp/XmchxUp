@@ -79,10 +79,7 @@ jobs:
           plugin_lines_skipped: XmchxUp, Notes, picx-images-hosting, cloudimg
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_user: AHdark
-          plugin_wakatime_days: 7
+
          
 
 
