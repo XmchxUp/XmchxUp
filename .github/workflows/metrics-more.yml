@@ -134,16 +134,6 @@ jobs:
           plugin_people_size: 36
           plugin_people_types: followers, following
        
-#       # 💕 GitHub Sponsors
-#       - name: Sponsors goal
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: github-metrics/sponsors.svg
-#           token: ${{ secrets.METRICS_TOKEN }}
-#           base: ""
-#           plugin_sponsors: yes
-#           plugin_sponsors_sections: goal, list
-#           plugin_sponsors_past: yes
           
       # 📓 Featured repositories
       - name: Pinned repositories
@@ -200,45 +190,9 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
-   
-#       # ♐ Random code snippet
-      # - name: JavaScript or TypeScript snippet of the day
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: github-metrics/code.svg
-      #     token: ${{ secrets.METRICS_TOKEN }}
-      #     base: ""
-      #     plugin_code: yes
-      #     plugin_code_languages: javascript, typescript
-      #     plugin_code_load: 400
           
 
-     
-      # ⏱️ Google PageSpeed
-      - name: Screenshot
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/pagespeed.screenshot.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://blog.sunguoqi.com
-
-
-      # 🗨️ Stack Overflow
-      - name: Top answers from stackoverflow
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/stackoverflow.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 11415062
-          plugin_stackoverflow_sections: answers-top
-          plugin_stackoverflow_limit: 3
+  
 
 
       # ⏰ WakaTime
