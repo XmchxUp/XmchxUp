@@ -63,7 +63,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_languages_ignored: javascript
-          plugin_languages_skipped: AH-dark/AH-dark
+          plugin_languages_skipped: XmchxUp, Notes, picx-images-hosting, cloudimg
           plugin_languages_indepth: yes
           plugin_languages_details: lines
           plugin_lines: yes
