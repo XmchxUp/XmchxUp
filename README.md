@@ -32,7 +32,7 @@ WSL                      2 hrs 4 mins        ███░░░░░░░░�
  Last Updated on 11/11/2024 20:08:36 UTC
 <!--END_SECTION:waka-->
 
-<details open>
+<details >
     <summary>Other Stuff</summary>
 <!--
 <p align="center">
