@@ -34,14 +34,12 @@ WSL                      2 hrs 4 mins        ███░░░░░░░░�
 
 <details open>
     <summary>Other Stuff</summary>
-
+<!--
 <p align="center">
     <img src="https://api.githubtrends.io/user/svg/XmchxUp/langs?time_range=one_year&include_private=True&theme=classic" />
     <img src="https://api.githubtrends.io/user/svg/XmchxUp/repos?time_range=one_year&include_private=True&theme=classic" />
 </p>
-
-
-* 🏆 Some GitHub statistical reports:
+-->
 
 <table align="center">
   <tr>
@@ -61,6 +59,7 @@ WSL                      2 hrs 4 mins        ███░░░░░░░░�
 </table>
 
 <!-- GitHub Activity Graph -->
+<!--
 <table align="center">
   <tr>
     <td colspan="2">
@@ -70,7 +69,7 @@ WSL                      2 hrs 4 mins        ███░░░░░░░░�
 </table>
 
 </details>
-
+-->
 
 <hr>
 
@@ -82,10 +81,10 @@ WSL                      2 hrs 4 mins        ███░░░░░░░░�
     </p>
 </p>
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XmchxUp/XmchxUp/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XmchxUp/XmchxUp/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/XmchxUp/XmchxUp/output/github-snake.svg" />
 </picture>
-
-
+-->
