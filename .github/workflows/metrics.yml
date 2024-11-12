@@ -29,15 +29,21 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          
           plugin_followup: yes
           plugin_followup_archived: yes
-          plugin_followup_sections: repositories
+          plugin_followup_sections: user
+          plugin_followup_indepth: yes
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+          plugin_activity_skipped: XmchxUp, Notes, picx-images-hosting, cloudimg
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_notable: yes
@@ -45,35 +51,3 @@ jobs:
           # plugin_notable_repositories: yes
           plugin_notable_skipped: epfl-ada/ada-2022-project-superplainteamname2022, pixelsdb/pixels, pixelsdb/pixels-trino, engula/engula, ericon-io/comments, ixxchan/.github, ixxchan/peerster, beyondstorage/site, beyondstorage/community, logseq/marketplace, facebookarchive/cargo-guppy
           plugin_notable_types: commit, pull_request, issue
-
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: A
-
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          plugin_languages_ignored: javascript
-          plugin_languages_skipped: XmchxUp, Notes, picx-images-hosting, cloudimg
-          plugin_languages_indepth: yes
-          plugin_languages_details: lines
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
-          plugin_lines_skipped: XmchxUp, Notes, picx-images-hosting, cloudimg
-          plugin_stars: yes
-          plugin_stars_limit: 4
-
-         
-
-
