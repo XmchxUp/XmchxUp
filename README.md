@@ -33,12 +33,10 @@ WSL                      2 hrs 13 mins       ██░░░░░░░░░�
 
 <details >
     <summary>Other Stuff</summary>
-<!--
 <p align="center">
     <img src="https://api.githubtrends.io/user/svg/XmchxUp/langs?time_range=one_year&include_private=True&theme=classic" />
     <img src="https://api.githubtrends.io/user/svg/XmchxUp/repos?time_range=one_year&include_private=True&theme=classic" />
 </p>
--->
 
 <table align="center">
   <tr>
