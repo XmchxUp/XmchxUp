@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="187" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="184" class="">
     <defs>
         <style/>
     </defs>
@@ -27,7 +27,7 @@
                                         <span>created Jan 22 2020</span>
                                     </div>
                                 </div>
-                                <div class="field description">投票社区三端系统(SpringBoot)</div>
+                                <div class="field description">Voting Community Platform</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
