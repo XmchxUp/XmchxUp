@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1241" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1124" class="">
     <defs>
         <style/>
     </defs>
@@ -464,6 +464,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#f6fee87</div>
+                                        <div class="message">update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">XmchxUp/running_page</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#ef144d1</div>
                                         <div class="message">update</div>
                                     </div>
@@ -516,117 +536,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">XmchxUp/running_page</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#37ef80d</div>
-                                        <div class="message">fix: bug github and grid poster can not run (#822)
-
-Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05110d2</div>
-                                        <div class="message">feat: month of life (#821)
-
-Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c64de2</div>
-                                        <div class="message">feat: support pdm (#818)
-
-* feat: support pdm
-
-Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;
-
-* fix: address comments
-
-Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;
-
----------
-
-Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2382083</div>
-                                        <div class="message">fix garmin route load failure due to garmin fit format change (#816)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3af7d77</div>
-                                        <div class="message">fix: some typos (#815)
-
-Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f76377</div>
-                                        <div class="message">fix: handle None values for elevation gain in activity updates (#814)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24a04a2</div>
-                                        <div class="message">fix: replace HeartRateList with DataSeries for heart rate and elevation_gain in Joyrun (#813)
-
-* fix: replace HeartRateList with DataSeries for heart rate and altitude data handling
-
-* fix: add missing elevation parameter to new_track_point and update docstring for altitude data</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14f8424</div>
-                                        <div class="message">feat: Elevation Gain (#719)
-
-* feat: elevation gain - strava/garmin(gpx/tcx/fit)
-
-* feat: elevation gain - keep: elevation &amp; gpx type
-
-* feat: elevation gain - keep: elevation &amp; gpx type
-
-* feat: elevation gain - ui
-
-* feat: joyrun gpx: elevation and heart_rate
-
-* feat: elevation gain - joyrun
-
-* feat: elevation gain - keep
-
-* feat: elevation gain - gpx
-
-* feat: elevation gain - oppo
-
-* feat: elevation gain - tulipsport
-
-* feat: elevation gain - field name
-
-* feat: elevation gain - db updator
-
-* feat: elevation gain - fix
-
-* doc: update notice
-
-* feat: elevation gain display switch, default not show
-
----------
-
-Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;
-Co-authored-by: yihong0618 &lt;zouzou0208@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Apr 2025, 16:22:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Apr 2025, 17:17:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
