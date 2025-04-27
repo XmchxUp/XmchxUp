@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1157" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1407" class="">
     <defs>
         <style/>
     </defs>
@@ -128,7 +128,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 776 users
+                            Following 777 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -410,10 +410,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    776 followed
+                    777 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAADKklEQVR4nMXV609SYRgAcP8gvFTLzS2XfWhz2Vof+uI0twZ4Sc1LuSlZm6XmnGnLTGtozgsgiImQykUQUMQLsqFclCPeQBEQTqAInHN6mx7HkHnhrFrP3g/nPTvPb+97nuc9J45MYvz1Eff/UWoi80OBrDSVSxgtv/O9IUccnlISmOT402txr8lq9jitvpf3+bGiuddYUuYqimCH3uBgi5aayKzLEhpn7ZYll3wQ0ilsAAAbBOtndq1mT24SMya0v24eQ38BAPy+kA2CA4cIOBsBP2JZcrUWy0NBtKNiKibUBsHh/Bn+OjgvXLaDynRe4xNJE2UiJtQ4aw8nC74un4tuGvZlrFUChaJl8L37R3hyc64UCaEAAJ3S1losd2z78PuiXlN9lrDk1iCB6lfcHZb0r9BpqvpsEa68eiggkxjzwk18iiLYptFdmzlOrKVUIxYbBGPY6X7Ni46dNRhg0S8hN4lFAFVwIXBxWM0eUY9JI9nqfTtHAO2kzVyCdrw47qTxb4ZJtpkAWnabG9kGbvthlGvWOlAUYzctEkDJJEZJKnd5egcn7BvesS69y3aATy06V/tz5Xi34WPhZE/NnJS1uqpxdFWrr0bJJAa9SoUrG4Z9TrO2KoP/7rGoIUfc+ky+t+WNXLhj2zfSrosJbS9X4jnKIciicwEAvO5AFIdHW4lCevY4xJ0r5t8YWF8+hgAAxln7gui0ScMBO/2jnXoUwUxzdnI8Y3Z04wq0KIUTWSin1SfsNkShdJqKTGLUPBqrzRSSSQz1j/XL0LK0IavZc3QQWtM5JX0m2OlHUYzVqMEtg3rX6w5AWkf0eeFbLkO10u3wckJBlE5TISGM2bBw8h52T77Zx1uJypoeXrsMPfgZjNymRrw1wVjpfq0O+JHKdF7Uw+VpQ815Ms577c4aTIm/GO2rnY885sEjhJrALErhKIcgSgKz+oHgS8XUaKdeI9nSSrcnB8y9b+bqs0WFyewrCsX7rAujGAbyrh9/OFYW9mb467w2XVupoureSOS6YjpRT5PZ4X5UC86UNcYRd+7dgpsDn0oULfkyauKFfzfC6B+Of4L+BgXzReBdk2KhAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAcGBf/EAC0QAAEEAQMBBgUFAAAAAAAAAAECAwQRBQAGIRIHExQxYXEWIkFRgSMykaHB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AIRsACXMTDvpV1WL+x1U+zXCj4wCkZSNjyXqbbEcPOq/JBA99YLFQ24W4m0ob7p1ockcXdH+LsaTnZLjI4iOTZEKOh+7DoT85P10HR306y4xCwU0iR498OFKk+bTX6nNDz6wgD7630IojQ2GYwQ00hAATVVo7bnzSpeIm5eFMLzseW9RDlOBVoWiifoigKArjSEwshbmMjqd6esp5rQHLd/ZiU7gdcYfcjou21Vfn/nodanEQspjMOwy/me7br5gwyA4T7qJH9aohrJ7cgSpaUl51htalJFWVJF6ymcbSzinlIHKQavQTDdSIkbCeGiBLLCVNx2wTy4pTgs+pOrjt3dTT+PKYwDqGVlorH7SoVdemhnvjJS8juePDkPK8OhwEJTxyT5++k72XEsbVQ20aQHTQ/A0H//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFBgj/xAAsEAABAwMCBQEJAQAAAAAAAAABAgMEABEhBRMGEkFhcSIHFBUkMUJSobHB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAD/xAAbEQADAAMBAQAAAAAAAAAAAAAAAQIDEiETMf/aAAwDAQACEQMRAD8AwSuOp0uatS5nOsghp5QJLY6DxST7MePHHJYZnJWVn5cqItk2saDOGGHntTiQ9pCFuqCPUCCDSVpmkT3pOnll2Ky+3L2XNoZIGc57UXdxXBSxpyPMmcUnBqJ8Sd+3I8VVJ1BTjjl0oAAuLCozrh3Cd5ec9KXT6DmOHJel6m85MHvb53OYFLija/a9b3ijXW5ZgN6U6605FtIfdSTdCsJRjra9z5rIqgRy+ElGFKyKrGvTIhJH0USg9xzlP8o+ib2EejS1HjgPjWTqFtN1le3McSmzqcBdzcY7/wCUlRI42ElJKwcgkWvXMZeVGmMOM2StDjiUH8QkhSbeDend6Y89D01xZHMuI0s2HUi5/ZNWOnX0rlH/2Q==" width="28" height="28" alt="" />
@@ -437,7 +438,6 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwj/xAAtEAACAQIFAgQFBQAAAAAAAAABAgMEEQAFEiExBkETIoGhFDJhkbFRUsHR8P/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQMRAiFBE5H/2gAMAwEAAhEDEQA/AOmazMKWjkSOeXQ5FwNJP4wLmWc0dDSePd6i99KQDWWNr9uOOTjeqro1iPgxyVl2MRSAB7HuDvYeuF2XQVEq5jTVEjUsTkGKCJrSQKRY+bjcgkW2G4xO3YQTojqCLO8ujcSMXQ+FMknzJJb8Hf8A3FSRiflyingzxKqklaGWYA1P7ZRGbh2+t7C/1OHdPUQVMQlp5opYzw6MrA+owwCEpaxspamUu3wsdfIjeTkABRsB2H8YtKSIyO9S4XVKBaxvZRwPcn1OFWe5RSjp+sXSxLSNNqJ3DMdyMLumqmWPJM2RHIEMTOh7g+ff2GMOErjk831X8Gq1YN1xmbgywUTjxFSV5bc+Gsbi33J9sTFRTU0lTM01TNGS506IWs69m+bvim6RoqfNfi2q4xeaJ0OnbSG2On9NmP3w6g6Py8Bg01Y51Hdpf6GI5KSZLPXQulo//9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYIAwT/xAAvEAABBAEBBQYFBQAAAAAAAAABAgMEBREABhIhMXEHCBMUYYEVIiMykUFRUlOh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/ANL6hu1KyumIECs2bdRGsLB0oMtSchltAySPXiAPfrq51GdpdO1aQYZkKxHacIUN3IOR+o9tCjl2dtpsTKh2M+8+MV4UES2HgQVJJxkZJwR6Y08NqDjaVoV8qhkaCJ+z0Od4bLiXnZDgQGFZJJB4YBJ5Z5DTi3HCGWm0q4NpCPxoRwuLWBTQVzbWYzDiI5uvKCB06+miqX2t0u1N6jZqlS443JBHnXT4YKxxAbQeJ98dDqL72FhJVdUNb4pEPyypO4P7N8pz+B/p0DHKFhSFKStJ3goHiDqyGtUXDcmiZXcXFmG40D6rf0ggFY5Z/kf2Gp2p7yaEwWxbbPqXMH3rjOpShXqApKiOmToAs7aysUIFjYTJiUfYmQ+twJ6ZOvGTq4j/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEcklEQVR4nM1VD0yUZRi/8y5RGwiptFWYyCAG2nlYUdaM0s2Cy5JBrkXBZm1eoJnpijkEKQYRsdp0LGed/HNmgwK3CNBqcCs6KlEE0YIAjzuO4/5xdx/cn6+nPe/H9/Hd3QecLree7bfv/d73eZ7f+/x531ck+r9L2NpnktenqarXp6lOh65NSb5DNGJReIxiW/zu1gtJ+3TAB86FxyieRZ3/gGeJKOKh9NSErM4ufyJ/JGR1dKEu2twGj1S8KuGVXQlZnRoh5y8UGQiEiTs1aIs+FieSLJOukb2RnZit6V0oGlW7HVRt9gUjTszW9K6RvZmNPuclXLej6uRiqUOUnbMSBKO7bkfV58JsS6Ri2d5By0LGuz4wQGWjDf4cc8ONMTdUNFjhxWLh1CbNQrb3LzP6DuBbcW/Sw3zF77qdUFhnIWNFkQE6eqcBhZqhwTkLykUDDQA/9FCQenSc6BafsUBLt9OHFH0HEEbKlbl8pZdLJ+DykAu++dkJVgcNRpsXCmoskHxAB5rrMwSPv6ODY/UWME15wWz3QtMvTrg06ILMkgkfwki58q0AwujUL+v905Hynh68XhIYHKk2c/NXh10E7H9RnYXouL0AWw/rA9IanfpFXQDhxj1XRoSaw0sDXNe6gaYBqtvt8NgBHdyc8MDohIdEW3vRTtI6cNNNdEvOMmXgY+OeK8M+ZEtXRt8vVPBroy64cImCLQd15IuCqWVlcooZt/1OwRMHdfDjZQr6RuYi5wM5OMJ74jMz/RVw97hjtv03758jVV+dBnUf00Rtf1Cwedam/Gsr0P8Aqa2/P+TgCB/YWlLur7A9X08cHq01Q+6JSTjzk4M0B8q2fD23jnNfdThgX5UJCmuZWm7PZzqWj6inSys4wvjdrWp2ASN5vmAc8lVmYow7ZsVix2oB6cSeQRdHyFMhUlBjhrRCAzyy3+eSVzPn/a67Q+S5oxS7cLJlitSpQe0AnYlpjtcrjPDUIT08+raOnENW8Czi3JPv6uHVciP8Pe4mNuc6HGCweIkv1i9yIJdIsiwiVJ6ndbMLuCt2Z5hO3H1OpZH8HzplIkQnztvg+HkbGR8+ZSJrr31sJNk4Vm/hMoXgCPO0bklIRCiJMirlo1KhzkJi7Drc7UvFBui6Ng16s4c0BQKj+XVghrwcOMajgREL+YpKKSvjaiiWLJXEZTR/L6SIV9aIwQPOaSaVn31r49Y+abSSOTtFg9bomffJistobkEOn7MoXb565Yac3waEDPD26BtmmgRlykmDzTlXy/5RF7mVhGzRp3T56jDBB2NFpCx+k3LI6m+EabqhdYPy+CS5xk632wmwXjiHLwfeQP52m5RDNvQpWkjCY3c+J88b8/ANKxutcLGHmvcJwgvhU16qk0iTjHnQlygYuW/Lkff5xukfGrjnRwh4bvGt5M+hj6DImC6SimPTG5rmI1gMsekNTegjeELSRKvCEnM0/bdKtiGnux9tb4mMlZCI2AdjFDX1cRnNrcEgRlFThza3RXan5F9Om60OJJ0KnQAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBQH/xAAsEAABBAEDAwIEBwAAAAAAAAABAgMEBREABiESMUETYQciUZEUFSMycXKh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKQ3dct7d23YW77anURGi50J7qPgffGlBZfDvde9o8e03Hu6TXOuj1RBhghtgHBCP3DJHH15Hc6aPxGrXrfaMyHHH6ji2SDjOAHUEn7DWFbVElmyKo9kv13GyhsKSASeeSe2B/HjQc2pY3O37er2zuGUi2YktrRDtEJ6HFLbTktvJJPzYBIUDzg5GedMXSs2/Stp3JGkTZjsmXHfJaKOkAdxnP8AQ4I9zpp6DL3BdV1FXuzLaS2ywhJJ6jyr2A86E7KRDvquJcMv/hoz7Clt+tgFX0zz7fXU53r0h6yso78p91BOSVryVErXkn7DRQjdFhQQhUxQw7AcSl9DTzeQyVfMQjGOlOfGgPanc9Rtu3hOXLjrTEgltp1CAppCvfHPnvg+O2muzc1j7SXWbCGtChkKDyef91Lkia5uiFdv2KW0mDWvJYQ0nCEdSTk4OeeBoE/MZcZ15tp9QQFnAIGg/9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -450,6 +450,198 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 26 commits in
+                                        <span class="repo">XmchxUp/running_page</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5d043eb</div>
+                                        <div class="message">feat: Elevation Gain (#719)
+
+* feat: elevation gain - strava/garmin(gpx/tcx/fit)
+
+* feat: elevation gain - keep: elevation &amp; gpx type
+
+* feat: elevation gain - keep: elevation &amp; gpx type
+
+* feat: elevation gain - ui
+
+* feat: joyrun gpx: elevation and heart_rate
+
+* feat: elevation gain - joyrun
+
+* feat: elevation gain - keep
+
+* feat: elevation gain - gpx
+
+* feat: elevation gain - oppo
+
+* feat: elevation gain - tulipsport
+
+* feat: elevation gain - field name
+
+* feat: elevation gain - db updator
+
+* feat: elevation gain - fix
+
+* doc: update notice
+
+* feat: elevation gain display switch, default not show
+
+---------
+
+Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;
+Co-authored-by: yihong0618 &lt;zouzou0208@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5583619</div>
+                                        <div class="message">update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8edbf63</div>
+                                        <div class="message">fix: better ci (#828)
+
+* fix: better ci
+
+Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;
+
+* fix: support python 3.13
+
+Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;
+
+---------
+
+Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#346cb31</div>
+                                        <div class="message">fix: drop ride (#825)
+
+Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b3f077</div>
+                                        <div class="message">fix: add month of life to ci (#824)
+
+Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab51fb7</div>
+                                        <div class="message">feat: show month of life in summary (#823)
+
+* feat: better month of life
+
+Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;
+
+* fix: better dev
+
+Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;
+
+---------
+
+Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1aa8145</div>
+                                        <div class="message">fix: bug github and grid poster can not run (#822)
+
+Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d50b165</div>
+                                        <div class="message">feat: month of life (#821)
+
+Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#113bf6f</div>
+                                        <div class="message">feat: support pdm (#818)
+
+* feat: support pdm
+
+Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;
+
+* fix: address comments
+
+Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;
+
+---------
+
+Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35e3e59</div>
+                                        <div class="message">fix garmin route load failure due to garmin fit format change (#816)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af62db6</div>
+                                        <div class="message">fix: some typos (#815)
+
+Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c146129</div>
+                                        <div class="message">fix: handle None values for elevation gain in activity updates (#814)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b74737</div>
+                                        <div class="message">fix: replace HeartRateList with DataSeries for heart rate and elevation_gain in Joyrun (#813)
+
+* fix: replace HeartRateList with DataSeries for heart rate and altitude data handling
+
+* fix: add missing elevation parameter to new_track_point and update docstring for altitude data</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa409ea</div>
+                                        <div class="message">feat: Elevation Gain (#719)
+
+* feat: elevation gain - strava/garmin(gpx/tcx/fit)
+
+* feat: elevation gain - keep: elevation &amp; gpx type
+
+* feat: elevation gain - keep: elevation &amp; gpx type
+
+* feat: elevation gain - ui
+
+* feat: joyrun gpx: elevation and heart_rate
+
+* feat: elevation gain - joyrun
+
+* feat: elevation gain - keep
+
+* feat: elevation gain - gpx
+
+* feat: elevation gain - oppo
+
+* feat: elevation gain - tulipsport
+
+* feat: elevation gain - field name
+
+* feat: elevation gain - db updator
+
+* feat: elevation gain - fix
+
+* doc: update notice
+
+* feat: elevation gain display switch, default not show
+
+---------
+
+Signed-off-by: yihong0618 &lt;zouzou0208@gmail.com&gt;
+Co-authored-by: yihong0618 &lt;zouzou0208@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -526,28 +718,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">main</span>
-                                        in
-                                        <span class="repo">Ysoding/fly_challenge</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Apr 2025, 13:16:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Apr 2025, 14:21:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
