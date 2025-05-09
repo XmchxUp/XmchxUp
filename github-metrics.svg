@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1365" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1353" class="">
     <defs>
         <style/>
     </defs>
@@ -464,6 +464,33 @@
                                 <div class="details">
                                     <div>opened by vofr in <span class="repo">kubeedge/kubeedge</span></div>
                                     <div class="comment">
+                                        <i>time="2025-05-08T10:52:45Z" level=error msg=k8sError error="github.com/cilium/cilium/pkg/k8s/resource/resource.go:808: Failed to watch *v2.CiliumNode: failed to list *v2.CiliumNode: no kind "CiliumnodList" is registered for version "cilium.io/v2" in scheme "github.com/cilium/cilium/pkg/k8s/client/clientset/versioned/scheme/register.go:18"" subsys=k8s</i>
+                                        It looks like the previous issue is gone. The current problem is the one I mentioned earlier. You can check the
+                                        <code>cilium version</code>
+                                        or
+                                        <code>cilium status</code>
+                                        to take a look.
+                                        <code class="language-multiline language-sh" xml:space="preserve">master ~ » <span class="token function">sudo</span> cilium status                                                                                                                                                                                                       <span class="token number">1</span> ↵
+    /¯¯<span class="token punctuation">\</span>
+<span class="token trimmed">(22 more lines were trimmed)</span></code>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#6301 Cilium agent from an Edge Node stuck waiting for Cilium Operator to register some CRDs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by vofr in <span class="repo">kubeedge/kubeedge</span></div>
+                                    <div class="comment">
                                         <i>Do you recommand to use Cilium v1.15.15 for KubeEdge v1.17.0 ?</i>
                                         I think your environment with Kubernetes v1.28.13 and Cilium v1.16.0 does not meet the official requirements and may cause issues.
 https://docs.cilium.io/en/stable/network/kubernetes/compatibility/#cilium-crd-schema-validation
@@ -547,41 +574,12 @@ Defaulted container <span class="token string">"cilium-agent"</span> <span class
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#6301 Cilium agent from an Edge Node stuck waiting for Cilium Operator to register some CRDs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by vofr in <span class="repo">kubeedge/kubeedge</span></div>
-                                    <div class="comment">
-                                        Checked the Cilium agent logs but didn't find the corresponding log
-                                        <code>level=info msg="Still waiting for Cilium Operator to register the following CRDs:</code>
-                                        , I think maybe something was misconfigured at some step.
-But I did notice that one node keeps switching between
-                                        <code>NotReady</code>
-                                        and
-                                        <code>Ready</code>
-                                        . This is caused by the disconnection between edgecore and cloudcore.
-                                        <code class="language-multiline language-log" xml:space="preserve"><span class="token number">7.415850</span>   <span class="token number">94738</span> controller<span class="token punctuation">.</span>go<span class="token operator">:</span><span class="token number">145</span><span class="token punctuation">]</span> <span class="token string">"Failed to ensure lease exists, will retry"</span> err<span class="token operator">=</span><span class="token string">"unmarshal message to lease failed, err: json: cannot unmarshal array into Go value of type client.LeaseResp"</span> interval<span class="token operator">=</span><span class="token string">"7s"</span>
-<span class="token number">5</span>月 <span class="token number">07</span> <span class="token time number">14:43:20</span> ultraman<span class="token operator">-</span>desktop edgecore<span class="token punctuation">[</span><span class="token number">94738</span><span class="token punctuation">]</span><span class="token operator">:</span> I0507 <span class="token time number">14:43:20.810236</span>   <span class="token number">94738</span> status_manager<span class="token punctuation">.</span>go<span class="token operator">:</span><span class="token number">877</span><span class="token punctuation">]</span> <span class="token string">"Failed to update status for pod"</span> pod<span class="token operator">=</span><span class="token string">"kube-system/kube-proxy-ndz2g"</span> err<span class="token operator">=</span><span class="token string">"failed to patch status \"{\\\"metadata\\\":{\\\"uid\\\":\\\"9e528670-47e4-4b61-aa78-97bb84753f1b\\\"},\\\"status\\\":{\\\"hostIPs\\\":[{\\\"ip\\\":\\\"192.168.0.138\\\"}]}}\" for pod \"kube-system\"/\"kube-proxy-ndz2g\": connection lost between EdgeCore and CloudCore"</span>
-<span class="token trimmed">(16 more lines were trimmed)</span></code>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 May 2025, 01:15:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 May 2025, 02:22:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
