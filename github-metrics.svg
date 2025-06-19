@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1436" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1220" class="">
     <defs>
         <style/>
     </defs>
@@ -454,6 +454,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">Ysoding/lox</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#63eade5</div>
+                                        <div class="message">update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">XmchxUp/kubeedge</span>
                                     </div>
                                 </div>
@@ -556,116 +576,12 @@ The job is configured to trigger only when a label is added to a PR (pull_reques
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 14 commits in
-                                        <span class="repo">XmchxUp/kubeedge</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xmchx/ci</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#38a1478</div>
-                                        <div class="message">ci: add Cilium E2E test workflow
-
-Signed-off-by: Xmchx &lt;Fengyang.Sun@sony.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5908176</div>
-                                        <div class="message">Merge pull request #6359 from wbc6080/add-release-1.21
-
-Add v1.21.0 release note</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#73e2d55</div>
-                                        <div class="message">Merge pull request #6363 from Shelley-BaoYue/slsa-generator-version
-
-update slsa generator version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#358901b</div>
-                                        <div class="message">update slsa generator version
-
-Signed-off-by: Shelley-BaoYue &lt;baoyue2@huawei.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e64dd1e</div>
-                                        <div class="message">fix as comment
-
-Signed-off-by: wbc6080 &lt;wangbincheng4@huawei.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4603611</div>
-                                        <div class="message">add v1.21 release note
-
-Signed-off-by: wbc6080 &lt;wangbincheng4@huawei.com&gt;
-Co-authored-by: WillardHu &lt;wei.hu@daocloud.io&gt;
-Co-authored-by: ming.tang &lt;ming.tang@daocloud.io&gt;
-Co-authored-by: Shelley-BaoYue &lt;baoyue2@huawei.com&gt;
-Co-authored-by: DoisLONG &lt;15221580643@163.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3597398</div>
-                                        <div class="message">Merge pull request #6356 from WillardHu/fix-nodeupgradejob
-
-Fix some bugs in NodeUpgradeJob</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ce2fea</div>
-                                        <div class="message">Merge pull request #6354 from Shelley-BaoYue/update-1.21-version
-
-update manifest version for release 1.21</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5375ada</div>
-                                        <div class="message">Fix some bugs in NodeUpgradeJob
-
-Signed-off-by: WillardHu &lt;wei.hu@daocloud.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20cc5b6</div>
-                                        <div class="message">Merge pull request #6352 from Shelley-BaoYue/fix-nodetask
-
-fix nodetask handler register in taskmanager</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#171e668</div>
-                                        <div class="message">update manifest version for release 1.21
-
-Signed-off-by: Shelley-BaoYue &lt;baoyue2@huawei.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8bd9ecd</div>
-                                        <div class="message">fix nodetask handler register in taskmanager
-
-Signed-off-by: Shelley-BaoYue &lt;baoyue2@huawei.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80d0396</div>
-                                        <div class="message">Merge pull request #6351 from XmchxUp/xmchx/improve_test
-
-test: fix TestGetLocalIP</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34d3a26</div>
-                                        <div class="message">test: fix TestGetLocalIP
-
-Signed-off-by: Xmchx &lt;Fengyang.Sun@sony.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jun 2025, 17:18:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jun 2025, 18:18:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
