@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1057" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1757" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.introduction{white-space:normal;margin:0 13px 2px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -184,7 +184,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    2.40 GB used
+                                    2.46 GB used
                                 </div>
                             </section>
                             <section>
@@ -446,6 +446,369 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 46 commits in
+                                        <span class="repo">XmchxUp/kubeedge</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xmchx/issues_6339</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a3f3609</div>
+                                        <div class="message">changed cgroupdriver to systemd
+
+Signed-off-by: Zishan Ahmad &lt;zishan.barun@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9dafc2</div>
+                                        <div class="message">fixed lint issues
+
+Signed-off-by: Zishan Ahmad &lt;zishan.barun@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55e69f3</div>
+                                        <div class="message">added a blank line
+
+Signed-off-by: Zishan Ahmad &lt;zishan.barun@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57a8f9b</div>
+                                        <div class="message">add more details
+
+Signed-off-by: Xmchx &lt;Fengyang.Sun@sony.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e108e17</div>
+                                        <div class="message">add design overview.
+
+Signed-off-by: Tomoya Fujita &lt;Tomoya.Fujita@sony.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#13ce79b</div>
+                                        <div class="message">create edge-resource-upgrade-control.md under docs/proposal.
+
+Signed-off-by: Tomoya Fujita &lt;Tomoya.Fujita@sony.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c984a99</div>
+                                        <div class="message">added unit tests for ConvToCRIImage function
+
+Signed-off-by: Zishan Ahmad &lt;zishan.barun@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f3f92c</div>
+                                        <div class="message">added in go.mod
+
+Signed-off-by: Zishan Ahmad &lt;zishan.barun@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f39fcf</div>
+                                        <div class="message">Merge pull request #6362 from WillardHu/tidy-proposals
+
+Tidy up enhancement proposals</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9331ef9</div>
+                                        <div class="message">Merge pull request #6282 from Dhiren-Mhatre/test/create-test-pacmaninstaller
+
+[test]:create test for pacmaninstaller in keadm/app/cmd/util</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#626481d</div>
+                                        <div class="message">Merge pull request #6274 from Dhiren-Mhatre/test/create-test-debinstaller
+
+[test]:create test for debinstaller in keadm/app/cmd/util</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc17433</div>
+                                        <div class="message">refactor(image): replace ConvToCRIImage with reference.ParseAnyReference
+
+Signed-off-by: Zishan Ahmad &lt;zishan.barun@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f340f2a</div>
+                                        <div class="message">[test]:create test for debinstaller in keadm/app/cmd/util
+
+Signed-off-by: Dhiren-Mhatre &lt;kp064669@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dc34990</div>
+                                        <div class="message">Tidy up enhancement proposals
+
+Signed-off-by: WillardHu &lt;wei.hu@daocloud.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#30716ec</div>
+                                        <div class="message">[test]:create test for pacmaninstaller in keadm/app/cmd/util
+
+Signed-off-by: Dhiren-Mhatre &lt;kp064669@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a114284</div>
+                                        <div class="message">[test]:create test for common_others.go in keadm/app/cmd/util
+
+Signed-off-by: Dhiren-Mhatre &lt;kp064669@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e54ea16</div>
+                                        <div class="message">[test]:improve coverage of cloudcore in keadm/app/cmd/helm
+
+Signed-off-by: Dhiren-Mhatre &lt;kp064669@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#887053a</div>
+                                        <div class="message">[test]:improve coverage for endpointresource.go in cloud/pkg/dynamiccontroller/filter
+
+Signed-off-by: Dhiren-Mhatre &lt;kp064669@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#131d345</div>
+                                        <div class="message">[test]:improve coverage for upstream.go in cloud/pkg/edgecontroller/controller
+
+Signed-off-by: Dhiren-Mhatre &lt;kp064669@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c95d3a</div>
+                                        <div class="message">[test]:create test for client in edge/pkg/eventbus/mqtt
+
+Signed-off-by: Dhiren-Mhatre &lt;kp064669@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4457 commits in
+                                        <span class="repo">XmchxUp/cilium</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bdf6204</div>
+                                        <div class="message">bgp default gateway service lab
+
+Fixes: #37315 (add service lab for testing bgp autodiscovery with default gateway mode)
+Signed-off-by: Naveen Achyuta &lt;naveen.achyuta22@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51ab858</div>
+                                        <div class="message">add bgp autodiscovery
+
+Fixes: #37315 (add autodiscovery of bgp peers with default gateway mode)
+Signed-off-by: Naveen Achyuta &lt;naveen.achyuta22@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d0f54e5</div>
+                                        <div class="message">update k8s crd with bgp autodiscovery
+
+Fixes: #37315 (add bgp auto discovery field with default gateway mode)
+Signed-off-by: Naveen Achyuta &lt;naveen.achyuta22@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c39d72</div>
+                                        <div class="message">gateway-api: Use original source address for GAMMA
+
+GAMMA is solely used for E-W traffic, hence the original source address
+should be set. This will help to simplify the network policies as the
+intermediate reserved:ingress will not be considered as compared to N-S
+traffic.
+
+Co-authored-by: Liyi Huang &lt;liyi.huang@isovalent.com&gt;
+Signed-off-by: Tam Mach &lt;tam.mach@cilium.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf09810</div>
+                                        <div class="message">test/runtime: remove RuntimeAgentFQDNPolicies L3-dependent L7/HTTP test
+
+This tests that both L7 redirects (DNS and HTTP) work. The same is
+already covered in existing Cilium CLI connectivity tests[^1]. Thus this
+test case is redundant and can be removed.
+
+[^1]: cilium/cilium-cli/connectivity/builder/manifests/client-egress-to-fqdns.yaml
+
+Suggested-by: Chris Tarazi &lt;chris@isovalent.com&gt;
+Signed-off-by: Tobias Klauser &lt;tobias@cilium.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6222f0a</div>
+                                        <div class="message">k8s: use netip.Addr some more
+
+Avoid parsing to net.IP and then converting to netip.Addr, parse to
+netip.Addr right away.
+
+Signed-off-by: Tobias Klauser &lt;tobias@cilium.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#592f7b0</div>
+                                        <div class="message">renovate: only perform etcd patch version updates in stable branches
+
+Let's configure renovate to perform etcd minor version updates in the
+main branch only, while sticking to a fixed minor version in stable
+branches. This ensures that we don't introduce unnecessary churn
+(especially in the context of the clustermesh-apiserver, which packs
+the etcd binary as well), and potential incompatibilities due to API
+differences.
+
+The etcd project currently maintains both the current and the previous
+minor versions [1], so we'll still get security and important bug fixes
+regardless. Additionally, the etcd release cycle is also typically much
+longer than Cilium's (v3.5 got released in 2021), so there should be no
+problems from that point of view. In any case, we could still upgrade
+manually if need arises.
+
+[1]: https://etcd.io/docs/v3.6/op-guide/versioning/
+
+Related: #39615
+Signed-off-by: Marco Iorio &lt;marco.iorio@isovalent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1b9e0d</div>
+                                        <div class="message">clustermesh: handle tricky case in the endpointslice mirror controller
+
+This commit attempt to recover nicely on tricky cases where the service
+name label is remove from EndpointSlice.
+
+Signed-off-by: Arthur Outhenin-Chalandre &lt;arthur@cri.epita.fr&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b91509</div>
+                                        <div class="message">clustermesh: add local endpointslice mirror controller
+
+Add a new controller that mirror local EndpointSlice instead of relying
+on copying the selector of the local Service.
+
+This fixes two issues:
+- We were not supporting EndpointSlices not create via selectors which
+  was a known limitation of the existing implementation
+- Hostnames were not correctly synchronized with MCS-API. This is
+  because usually hostnames in EndpointSlice are set via a StatefulSet
+  to its governing Services. However in the previous implementation
+  because we effectively change the Service name we were not able to
+  have any hostname set.
+
+This new mirroring controller does fixes those two issues because no
+selectors are now involved and we fully control the content of the
+EndpointSlice that we create instead of relying on the controller inside
+kube-controller-manager.
+
+This new controller uses the suffix of the EndpointSlice as key and
+mirror the content of two EndpointSlice with the same key.
+
+Signed-off-by: Arthur Outhenin-Chalandre &lt;arthur@cri.epita.fr&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71e4174</div>
+                                        <div class="message">images: update cilium-{runtime,builder}
+
+Signed-off-by: Cilium Imagebot &lt;noreply@cilium.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed161b5</div>
+                                        <div class="message">chore(deps): update all-dependencies
+
+Signed-off-by: cilium-renovate[bot] &lt;134692979+cilium-renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#231e012</div>
+                                        <div class="message">monitor: Remove Service{Upsert,Delete}Notification
+
+Signed-off-by: Jussi Maki &lt;jussi@isovalent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#953f2e8</div>
+                                        <div class="message">loadbalancer/legacy: Drop use of service monitor notifications
+
+The service monitor notifications are being removed so drop the use
+of them from the legacy code.
+
+Signed-off-by: Jussi Maki &lt;jussi@isovalent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d05f8d</div>
+                                        <div class="message">hubble: Drop handling of service monitor notifications
+
+The service notifications were not used by Hubble and they are
+now being removed from the monitor agent.
+
+Signed-off-by: Jussi Maki &lt;jussi@isovalent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b4f43f</div>
+                                        <div class="message">api: Deprecate service notifications from Hubble agent events
+
+The service notifications are being removed so mark them as deprecated
+in the protobuf.
+
+Signed-off-by: Jussi Maki &lt;jussi@isovalent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7823a5f</div>
+                                        <div class="message">egressgw: simplify error handling when selecting egressIP
+
+Instead of setting `EgressIPNotFoundIPv*` from every error path, just set
+it by default. And later override it with the actual egressIP, once we
+were able to derive the gateway node's network configuration.
+
+This helps to ensure that if we were not able to derive a network config
+on the gateway node, the policy entry always ends up with the
+EgressIPNotFoundIPv* value - and thus explicitly drops any EGW traffic that
+is forwarded to the gateway.
+
+Signed-off-by: Julian Wiedmann &lt;jwi@isovalent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6cc85db</div>
+                                        <div class="message">docs: egressgw: describe IPv6 support
+
+Reflect https://github.com/cilium/cilium/pull/38452 in the docs.
+
+Signed-off-by: Julian Wiedmann &lt;jwi@isovalent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4422e41</div>
+                                        <div class="message">docs: egressgw: improve the description of required features
+
+We've bumped the miminum kernel version requirement sufficiently so that
+version incompatibility with KPR really should no longer be a concern.
+
+So let's not try to list the reasons *why* certain dependencies can not be
+enabled, such a description will always go stale.
+
+Signed-off-by: Julian Wiedmann &lt;jwi@isovalent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4c960e</div>
+                                        <div class="message">docs: egressgw: remove warning about pre-5.10 kernels
+
+With the minimum kernel version requirement now being 5.10, we can trust
+that the FIB lookup in the datapath always provides a valid egress ifindex.
+
+Therefore the described fallback situation is no longer relevant, remove
+it from the docs.
+
+Signed-off-by: Julian Wiedmann &lt;jwi@isovalent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d7be1a</div>
+                                        <div class="message">chore(deps): update all lvh-images main
+
+Signed-off-by: cilium-renovate[bot] &lt;134692979+cilium-renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -481,38 +844,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">zijie0/HumanSystemOptimization</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">Dokploy/dokploy</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Jul 2025, 14:28:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jul 2025, 15:26:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
