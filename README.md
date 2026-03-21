@@ -6,28 +6,29 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C635%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C635%20hrs%2059%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 1 min         ████████████░░░░░░░░░░░░░   47.80 % 
-TypeScript               3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-sh                       3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Python                   9 hrs 1 min         ████████████░░░░░░░░░░░░░   46.90 % 
+TypeScript               3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+sh                       3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 47 mins      █████████████████████░░░░   83.66 % 
-Zsh                      3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+VS Code                  16 hrs 8 mins       █████████████████████░░░░   83.97 % 
+Zsh                      3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
 
 💻 Operating System: 
-Linux                    18 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 52 mins      █████████████████████████   98.12 % 
+WSL                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 
 
- Last Updated on 20/03/2026 20:19:08 UTC
+ Last Updated on 21/03/2026 20:13:14 UTC
 <!--END_SECTION:waka-->
 
 <details >
