@@ -12,20 +12,17 @@
 
 ```text
 💬 Programming Languages: 
-sh                       20 mins             ████████████████░░░░░░░░░   64.34 % 
-Go                       11 mins             █████████░░░░░░░░░░░░░░░░   35.66 % 
+sh                       11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Zsh                      20 mins             ████████████████░░░░░░░░░   64.34 % 
-VS Code                  11 mins             █████████░░░░░░░░░░░░░░░░   35.66 % 
+Zsh                      11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    20 mins             ████████████████░░░░░░░░░   64.34 % 
-WSL                      11 mins             █████████░░░░░░░░░░░░░░░░   35.66 % 
+Linux                    11 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/04/2026 20:48:52 UTC
+ Last Updated on 30/04/2026 20:48:10 UTC
 <!--END_SECTION:waka-->
 
 <details >
