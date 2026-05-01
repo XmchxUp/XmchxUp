@@ -6,23 +6,29 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C663%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C666%20hrs%2042%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-sh                       11 mins             █████████████████████████   100.00 % 
+TypeScript               1 hr 25 mins        ████████████░░░░░░░░░░░░░   46.40 % 
+JSON                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 
 🔥 Editors: 
-Zsh                      11 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 53 mins       ███████████████████████░░   93.77 % 
+Zsh                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.00 % 
+WSL                      2 hrs 53 mins       ███████████████████████░░   93.77 % 
+Linux                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 ```
 
 
- Last Updated on 30/04/2026 20:48:10 UTC
+ Last Updated on 01/05/2026 20:39:37 UTC
 <!--END_SECTION:waka-->
 
 
