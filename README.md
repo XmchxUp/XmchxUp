@@ -25,12 +25,6 @@ Linux                    11 mins             ███████████�
  Last Updated on 30/04/2026 20:48:10 UTC
 <!--END_SECTION:waka-->
 
-<details >
-    <summary>Other Stuff</summary>
-<p align="center">
-    <img src="https://api.githubtrends.io/user/svg/XmchxUp/langs?time_range=one_year&include_private=True&theme=classic" />
-    <img src="https://api.githubtrends.io/user/svg/XmchxUp/repos?time_range=one_year&include_private=True&theme=classic" />
-</p>
 
 <table align="center">
   <tr>
@@ -49,18 +43,6 @@ Linux                    11 mins             ███████████�
   </tr>
 </table>
 
-<!-- GitHub Activity Graph -->
-<!--
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xmchxup&area=true&hide_border=true&theme=redical" />
-    </td>
-  </tr>
-</table>
-
-</details>
--->
 
 <hr>
 
