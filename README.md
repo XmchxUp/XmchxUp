@@ -12,22 +12,22 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.69 % 
-Markdown                 1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-JSON                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Markdown                 1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   36.17 % 
+TypeScript               1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Other                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Rust                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+TeX                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      5 hrs 59 mins       ███████████████████████░░   93.56 % 
-Windows                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+WSL                      4 hrs 19 mins       ███████████████████████░░   90.94 % 
+Windows                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
 ```
 
 
- Last Updated on 07/05/2026 20:55:24 UTC
+ Last Updated on 08/05/2026 20:44:05 UTC
 <!--END_SECTION:waka-->
 
 
