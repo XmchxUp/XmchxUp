@@ -6,28 +6,30 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C421%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C428%20hrs%2056%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 39 mins       ████████████░░░░░░░░░░░░░   47.16 % 
-TypeScript               1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Other                    51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Go                       14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-TeX                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Markdown                 4 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   36.45 % 
+Go                       3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+Other                    1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Rust                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+TypeScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  12 hrs 53 mins      █████████████████████████   99.32 % 
+Unknown Editor           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-WSL                      5 hrs 29 mins       ████████████████████████░   97.32 % 
-Windows                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Mac                      7 hrs 20 mins       ██████████████░░░░░░░░░░░   56.53 % 
+WSL                      5 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.31 % 
+Windows                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 
 
- Last Updated on 11/05/2026 21:08:07 UTC
+ Last Updated on 12/05/2026 21:07:52 UTC
 <!--END_SECTION:waka-->
 
 
