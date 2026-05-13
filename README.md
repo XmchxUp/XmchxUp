@@ -2,7 +2,7 @@
 <h2>
     <samp>🎉 Bonjour!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></samp>
 </h2>
-* 🧐 Open to work
+* 🧐 Happy
 <hr>
 
 <!--START_SECTION:waka-->
