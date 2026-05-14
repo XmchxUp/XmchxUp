@@ -12,24 +12,23 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.49 % 
-Go                       3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Other                    3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Rust                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-TypeScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Markdown                 5 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   34.61 % 
+Go                       4 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+Rust                     2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Other                    2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 9 mins       █████████████████████████   98.61 % 
-Unknown Editor           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+VS Code                  13 hrs 48 mins      █████████████████████░░░░   83.25 % 
+Unknown Editor           2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
 
 💻 Operating System: 
-Mac                      10 hrs 55 mins      █████████████████░░░░░░░░   66.64 % 
-WSL                      5 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.43 % 
-Windows                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Mac                      14 hrs 46 mins      ██████████████████████░░░   89.14 % 
+WSL                      1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
 ```
 
 
- Last Updated on 13/05/2026 21:13:59 UTC
+ Last Updated on 14/05/2026 21:01:11 UTC
 <!--END_SECTION:waka-->
 
 
