@@ -83,17 +83,6 @@ jobs:
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
 
-      - name: Followers
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/people.followers.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_people: yes
-          plugin_people_limit: 60
-          plugin_people_size: 36
-          plugin_people_types: followers, following
-
       - name: Pinned repositories
         uses: lowlighter/metrics@latest
         with:
@@ -102,24 +91,6 @@ jobs:
           base: ""
           plugin_repositories: yes
           plugin_repositories_pinned: 2
-
-      - name: GitHub discussions
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/discussions.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_discussions: yes
-          plugin_discussions_categories_limit: 8
-
-      - name: Full history calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/calendar.full.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
 
       # Temporarily disabled: the upstream activity plugin currently renders
       # an "Unexpected error" card for this profile.
