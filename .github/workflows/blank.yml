@@ -1,18 +1,24 @@
-name: Generate Datas
+name: Profile Assets
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  # This command allows us to run the Action automatically from the Actions tab.
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   summary-cards:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      
-      - name: Summary Cards
+      - uses: actions/checkout@v5
+
+      - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -22,14 +28,13 @@ jobs:
   snake-animation:
     runs-on: ubuntu-latest
     steps:
-      # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v5
 
-      # Generates the snake  
-      - uses: Platane/snk@v3
+      - name: Generate contribution snake
         id: snake-gif
+        uses: Platane/snk@v3
         with:
-          github_user_name: XmchxUp    
+          github_user_name: XmchxUp
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -37,20 +42,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-     # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: git status
-
-      # Push the changes
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: Publish snake assets
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          branch: master
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          # the output branch we mentioned above
           target_branch: output
           build_dir: dist
         env:

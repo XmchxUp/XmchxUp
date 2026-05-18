@@ -1,46 +1,43 @@
+<div align="center">
+  <h1>XmchxUp</h1>
+  <p>Lifelong learner and hobbyist developer.</p>
+  <p>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=xmchxup" alt="visitor badge" />
+  </p>
+</div>
 
-<h2>
-    <samp>🎉 Bonjour!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></samp>
-</h2>
-* 🧐 Happy
-<hr>
+## Weekly Coding Activity
 
 <!--START_SECTION:waka-->
 
- Last Updated on 17/05/2026 20:37:41 UTC
 <!--END_SECTION:waka-->
 
+## GitHub Metrics
 
 <table align="center">
   <tr>
     <td width="50%">
-     <img width="100%" src="./github-metrics.svg">
+      <img width="100%" src="./github-metrics/base.svg" alt="GitHub metrics overview" />
     </td>
     <td width="50%">
-     <img width="100%" src="./github-metrics/achievements.compact.svg" />
-     <img width="100%" src="./github-metrics/wakatime.svg" />
-     <img width="100%" src="./github-metrics/stars.svg" />
-     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=xmchxup" />
-     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=XmchxUp" />
+      <img width="100%" src="./github-metrics/wakatime.svg" alt="WakaTime metrics" />
+      <img width="100%" src="./github-metrics/stars.svg" alt="Recently starred repositories" />
     </td>
   </tr>
 </table>
 
-
-<hr>
-
+## Summary Cards
 
 <p align="center">
-    <i>You can learn anything!</i>
-    <p align="center">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=xmchxup" alt="visitor badge"/>       
-    </p>
+  <img width="49%" src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile details" />
+  <img width="49%" src="./profile-summary-card-output/transparent/3-stats.svg" alt="Profile stats" />
 </p>
 
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XmchxUp/XmchxUp/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XmchxUp/XmchxUp/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/XmchxUp/XmchxUp/output/github-snake.svg" />
-</picture>
--->
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive time" />
+  <img width="49%" src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
+</p>
+
+<p align="center">
+  <i>You can learn anything.</i>
+</p>

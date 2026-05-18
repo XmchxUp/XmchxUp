@@ -1,59 +1,49 @@
-# 此开源项目地址 https://github.com/lowlighter/metrics
-
-name: GitHub Metrics
+name: GitHub Metrics Extended
 
 on:
   schedule:
     - cron: "0 0 * * *"
-    # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
-  
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-metrics-extended-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # 基础信息（顺带了几个小插件）
-      - name: base
+      - name: Base
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/base.svg
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          # Options
           user: XmchxUp
           template: classic
           config_timezone: Asia/Shanghai
           base: "header, activity, community, repositories"
-          # 此插件为文档中的 🧮 Repositories traffic
           plugin_traffic: yes
-          # 此插件为文档中的 👨‍💻 Lines of code changed
           plugin_lines: yes
-          # 此插件为文档中的 🙋 Introduction
           plugin_introduction: yes
-          # 此插件为文档中的 🎫 Gists
           plugin_gists: yes
-          # 此插件为文档中的 💫 Star lists
           plugin_starlists: yes
           plugin_starlists_limit_repositories: 2
           plugin_starlists_languages: yes
           plugin_starlists_limit_languages: 8
           plugin_starlists_only: Awesome
-          
-      # 📅 Isometric commit calendar
+
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          # 不添加基础信息
           base: ""
-          # 使用此插件
           plugin_isocalendar: yes
-          # 设置成显示整年
           plugin_isocalendar_duration: full-year
-          
 
-      # 🌟 Recently starred repositories
       - name: Recently starred
         uses: lowlighter/metrics@latest
         with:
@@ -62,23 +52,8 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
-          
-#       # 📜 Repository licenses
-#       - name: Licenses with open-source ratio graphs
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: github-metrics/licenses.ratio.svg
-#           token: ${{ secrets.METRICS_TOKEN }}
-#           base: ""
-#           template: repository
-#           repo: metrics
-#           plugin_licenses: yes
-#           plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-#           plugin_licenses_legal: no
-#           plugin_licenses_ratio: yes
-          
-      # 💡 Coding habits and activity
-      - name: Recent activity charts
+
+      - name: Habits charts
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/habits.charts.svg
@@ -87,22 +62,9 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
-          config_timezone: Europe/Paris
-          
-#       # 🏅 Repository contributors
-#       - name: Contributors with contributions count
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: github-metrics/contributors.contributions.svg
-#           token: ${{ secrets.METRICS_TOKEN }}
-#           base: ""
-#           template: repository
-#           repo: metrics
-#           plugin_contributors: yes
-#           plugin_contributors_contributions: yes
-          
-      # 🎟️ Follow-up of issues and pull requests 
-      - name: Indepth analysis
+          config_timezone: Asia/Shanghai
+
+      - name: In-depth analysis
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/followup.indepth.svg
@@ -110,8 +72,7 @@ jobs:
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
-          
-      # 🎭 Comment reactions
+
       - name: Comment reactions
         uses: lowlighter/metrics@latest
         with:
@@ -122,7 +83,6 @@ jobs:
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
 
-      # 🧑‍🤝‍🧑 People    
       - name: Followers
         uses: lowlighter/metrics@latest
         with:
@@ -130,12 +90,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_people: yes
-          plugin_people_limit: 500
+          plugin_people_limit: 60
           plugin_people_size: 36
           plugin_people_types: followers, following
-       
-          
-      # 📓 Featured repositories
+
       - name: Pinned repositories
         uses: lowlighter/metrics@latest
         with:
@@ -145,17 +103,15 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_pinned: 2
 
-      # 💬 Discussions
-      - name: GitHub Discussions
+      - name: GitHub discussions
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/discussions.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_discussions: yes
-          plugin_discussions_categories_limit: 8       
-   
-      # 📆 Commit calendar
+          plugin_discussions_categories_limit: 8
+
       - name: Full history calendar
         uses: lowlighter/metrics@latest
         with:
@@ -165,22 +121,21 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 0
 
+      # Temporarily disabled: the upstream activity plugin currently renders
+      # an "Unexpected error" card for this profile.
+      # - name: Recent activity
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics/activity.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_activity: yes
+      #     plugin_activity_limit: 5
+      #     plugin_activity_days: 14
+      #     plugin_activity_filter: issue, pr, release, fork, review, ref/create
+      #     plugin_activity_visibility: public
+      #     plugin_activity_skipped: XmchxUp, Notes, picx-images-hosting, cloudimg
 
-      # 📰 Recent activity
-      - name: Recent activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14        # 改回 7~14 天，不要用 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
-          plugin_activity_visibility: public   # 或者 all（看你需求）
-          plugin_activity_skipped: XmchxUp, Notes, picx-images-hosting, cloudimg
-
-      # ⏰ WakaTime
       - name: WakaTime
         uses: lowlighter/metrics@latest
         with:
@@ -190,13 +145,3 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          
-#       # 🗳️ Leetcode
-#       - name: LeetCode
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: github-metrics/leetcode.svg
-#           token: NOT_NEEDED
-#           base: ""
-#           plugin_leetcode: yes
-#           plugin_leetcode_sections: solved, skills, recent
