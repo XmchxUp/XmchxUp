@@ -13,7 +13,6 @@
 ## About Me
 
 ```text
-Focus areas  : Backend engineering, cloud-native tooling, and developer workflow
 Style        : Learn fast, build often, keep shipping
 Mindset      : You can learn anything
 ```
